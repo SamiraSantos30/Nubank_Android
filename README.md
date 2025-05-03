@@ -1,1 +1,15 @@
 # Nubank_Android
+
+![WhatsApp Image 2025-05-03 at 13 17 16](https://github.com/user-attachments/assets/19b7a349-1620-4094-bcf8-3b15fc4aa745)
+![WhatsApp Image 2025-04-22 at 20 24 20](https://github.com/user-attachments/assets/94c675ed-d77d-4415-91fc-b1ee0d700198)
+![WhatsApp Image 2025-05-03 at 13 24 13](https://github.com/user-attachments/assets/aebae1e3-9dc5-4fb8-8db5-dccb46512d04)
+![WhatsApp Image 2025-05-03 at 13 24 13 (1)](https://github.com/user-attachments/assets/fd375a07-438e-49c0-ba86-4ec5162ef4f9)
+![WhatsApp Image 2025-05-03 at 13 24 14 (1)](https://github.com/user-attachments/assets/246bb012-308a-4451-87b3-f1848c585583)
+![WhatsApp Image 2025-05-03 at 13 24 14](https://github.com/user-attachments/assets/dad6b314-5b8f-473b-b1af-d9160578b132)
+![WhatsApp Image 2025-05-03 at 13 24 14 (1)](https://github.com/user-attachments/assets/a7b6823d-cf0d-4e4c-b2dd-f29af56c4210)
+![WhatsApp Image 2025-05-03 at 13 24 18](https://github.com/user-attachments/assets/e8705738-bded-4971-952d-6f112a17d138)
+![WhatsApp Image 2025-05-03 at 13 24 16](https://github.com/user-attachments/assets/5488c131-58d6-4191-8dce-095a34fec1ac)
+![WhatsApp Image 2025-05-03 at 13 24 16 (1)](https://github.com/user-attachments/assets/50bd7f1c-c6e2-4820-8b35-239b614d3634)
+![WhatsApp Image 2025-05-03 at 13 24 17](https://github.com/user-attachments/assets/2a1035a8-6153-4f9a-b953-7d5a11650217)
+![WhatsApp Image 2025-05-03 at 13 24 20](https://github.com/user-attachments/assets/80630836-1ec3-49ad-9bde-9ebcf7ef656e)
+![WhatsApp Image 2025-05-03 at 13 24 18](https://github.com/user-attachments/assets/5d68c3a8-5842-45f1-8bfb-9b096bf08e4b)
