@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">avaliacao</string>
+    <string name="qual_o_valor_da_transferencia">Qual é o valor da transferencia</string>
+    <string name="saldo_disponivel_em_conta_r_69_000_00">Saldo disponivel em conta R$69.000,00</string>
+    <string name="r_0_00">R$ 0,00</string>
+    <string name="rea_pix">Área Pix</string>
+    <string name="envie_e_receba_pagamentos_a_qualquer_hora_e_dia_da_semana_sem_pagar_nada_por_isso">Envie e receba pagamentos a qualquer hora e dia da semana sem pagar nada por isso</string>
+    <string name="transferir">Transferir</string>
+    <string name="programar">programar</string>
+    <string name="ler_qr_code">Ler QR code</string>
+    <string name="preferencias">preferencias</string>
+    <string name="programarr">programar</string>
+    <string name="ler_qr">Ler QR</string>
+    <string name="preferenciass">Preferencias</string>
+    <string name="configurar_pix">configurar pix</string>
+    <string name="registrar_ou_trazer_chaves">Registrar ou trazer chaves</string>
+    <string name="todo">TODO</string>
+    <string name="todos">TODO</string>
+    <string name="bertana">Bertana</string>
+    <string name="fulana">Fulana</string>
+    <string name="cicrana">Cicrana</string>
+    <string name="voce_tem_um_limite_de_r_32_450_00_para_usar_como_pixno_cart_o_de_cr_dito_este_m_s">Voce tem um limite de R$ 32.450,00 para usar como pixno cartão de crédito este mês.</string>
+    <string name="voce_tem_um_limite_de_r_32_450_00_para_usar_como_pix_no_cart_o_de_cr_dito_este_m_s">voce tem um limite de R$ 32.450,00 para usar como pix no cartão de crédito este mês</string>
+    <string name="nubank_logo">nubank_logo</string>
+</resources>

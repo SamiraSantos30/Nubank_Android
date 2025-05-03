@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tela_segunda"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rea_pix"
+        android:textSize="30sp"
+        android:layout_marginTop="30dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_width="378dp"
+        android:layout_height="75dp"
+        android:text="@string/envie_e_receba_pagamentos_a_qualquer_hora_e_dia_da_semana_sem_pagar_nada_por_isso"
+        android:textSize="20sp"
+
+        tools:ignore="MissingConstraints" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#E0E0E0"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+
+            <ImageButton
+                android:id="@+id/transferir"
+                android:layout_width="73dp"
+                android:layout_height="73dp"
+                android:background="@drawable/redondobutton"
+                android:backgroundTint="#E0E0E0"
+                android:src="@mipmap/transferir" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/transferir"
+                android:textSize="15sp"
+                tools:ignore="MissingConstraints"
+
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginStart="8dp"
+
+            >
+            <ImageButton
+                android:layout_width="73dp"
+                android:layout_height="73dp"
+                android:backgroundTint="#E0E0E0"
+                android:background="@drawable/redondobutton"
+                android:src="@mipmap/programar"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/programar"
+                android:textSize="15sp"
+                tools:ignore="MissingConstraints,TextSizeCheck"
+
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginStart="8dp"
+            >
+            <ImageButton
+                android:layout_width="73dp"
+                android:layout_height="73dp"
+                android:background="@drawable/redondobutton"
+                android:src="@mipmap/qrcode"
+                android:backgroundTint="#E0E0E0"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ler_qr_code"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#E0E0E0"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+
+            <ImageButton
+                android:layout_width="73dp"
+                android:layout_height="73dp"
+                android:background="@drawable/redondobutton"
+                android:backgroundTint="#E0E0E0"
+                android:src="@mipmap/pix_foreground" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="pix"
+                android:textSize="15sp"
+                tools:ignore="MissingConstraints"
+
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginStart="8dp"
+
+            >
+            <ImageButton
+                android:layout_width="73dp"
+                android:layout_height="73dp"
+                android:backgroundTint="#E0E0E0"
+                android:background="@drawable/redondobutton"
+                android:src="@mipmap/money"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cobrar"
+                android:textSize="15sp"
+                tools:ignore="MissingConstraints,TextSizeCheck"
+
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginStart="8dp"
+            >
+            <ImageButton
+                android:layout_width="73dp"
+                android:layout_height="73dp"
+                android:background="@drawable/redondobutton"
+                android:src="@mipmap/seta_indicando_para_baixo"
+                android:backgroundTint="#E0E0E0"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="depositar"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/preferenciass"
+        android:textSize="20sp"
+        android:layout_marginTop="30dp"
+
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/registrar_ou_trazer_chaves"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="30dp"
+        tools:ignore="MissingConstraints"
+        />
+
+    <TextView
+        android:layout_width="202dp"
+        android:layout_height="31dp"
+        android:text="@string/configurar_pix"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints"
+        android:layout_marginStart="45dp"
+        />
+
+
+</LinearLayout>
+
